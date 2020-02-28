@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     ImageView mainImage;
     // mustafaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
+	//muuuuuuuuuuuuuuuuuuuuathh
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
