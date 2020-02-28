@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int MY_PERMISSIONS_REQUEST = 100;
 
     ImageView mainImage;
+    // mustafaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
