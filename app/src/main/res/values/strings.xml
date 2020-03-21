@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">ImageProcessor</string>
+    <string name="title_activity_image_edit">ImageEditActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+
+    <string-array name="filters">
+        <item>Original</item>
+        <item>GreyScale</item>
+        <item>sum crap</item>
+    </string-array>
+
 </resources>
